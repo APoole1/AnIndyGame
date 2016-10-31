@@ -9,7 +9,7 @@ I did not create the music for the game, the pause menu and some of the images f
 
 ==== Game Info ==============================================================================================
 
-An Indy Game is a 2D game I created using Unity Engine and C#, over the course of 2 monthes during the summer. It is loosly based on the scene at the start of Raiders of the Lost Ark, where Indiana Jones attempts to retrieve an idol from an underground temple.
+An Indy Game is a 2D game I created using Unity Engine and C#, over the course of 2 monthes during the summer. It is loosley based on the scene at the start of Raiders of the Lost Ark, where Indiana Jones attempts to retrieve an idol from an underground temple.
 
 To play the game, extract the files from "Build.zip", and then run the .exe within. The assets are also included in the git resource, so open those in unity to see the source.
 
